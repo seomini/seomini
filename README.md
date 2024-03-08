@@ -2,7 +2,7 @@
 <h3 align="center">I am working with the mission of change the world a better than yesterday!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seomini&label=Profile%20views&color=0e75b6&style=flat" alt="seomini" /> </p>
-
+ 
 - 👨‍💻 All of my projects are available at [https://citrine-end-d5a.notion.site/677a17e995e94c4facae42c2c8178a37?pvs=4](https://citrine-end-d5a.notion.site/677a17e995e94c4facae42c2c8178a37?pvs=4)
 
 - 📫 How to reach me **seominiqwe@naver.com**
